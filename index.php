@@ -303,11 +303,11 @@
 
 							foreach ($cmd as $row) {
 
-							$fname = $row['firstName'];
-							$mname = $row['middleName'];
-							$lname = $row['lastName'];
-							$pnumber = $row['phoneNumber'];
-							$email = $row['emailAddress'];
+								$fname = $row['firstName'];
+								$mname = $row['middleName'];
+								$lname = $row['lastName'];
+								$pnumber = $row['phoneNumber'];
+								$email = $row['emailAddress'];
 
 							}
 
